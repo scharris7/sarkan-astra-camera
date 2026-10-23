@@ -1,4 +1,4 @@
-# SARKAN — Orbbec Astra+ Lightweight ROS 2 Bridge
+# SARKAN — Orbbec Astra+ ROS 2 Bridge
 
 Puente ligero para integrar la cámara **Orbbec Astra+** en **ROS 2 Humble**, desarrollado para el proyecto **SARKAN**.
 
